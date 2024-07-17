@@ -1,0 +1,625 @@
+{
+    "0": {
+        "question": "A CM's role and responsibilities are governed solely by the Owner/CM Agreement.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "1": {
+        "question": "There are two basic forms of CM, agency and at-risk. Each form provides for the basic services of construction management practice. However, there are some key differences. Which of the following do not apply to both CM forms?",
+        "options": [
+            "A) Both forms provide advice to the owner on constructibility, budget and the schedule.",
+            "B) Both require that the liabilities and risks assumed by the parties be clearly understood, coordinated, and stated in the respective contracts.",
+            "C) Both forms allow the CM to function in an advisory role for the entire engagement of the CM.",
+            "D) Services can vary based on the contractual relationships of the parties and the risks that are assumed."
+        ],
+        "answer": "C) Both forms allow the CM to function in an advisory role for the entire engagement of the CM."
+    },
+    "2": {
+        "question": "Construction management had its beginnings in the early to mid-1960's. Which of the following factors contributed to the initial use of this delivery system?",
+        "options": [
+            "A) The need to reduce the overall time and cost associated with project delivery.",
+            "B) The increasing cost of money and the unpredictability of project funding streams.",
+            "C) The changing role of the general contractor and the increasing numbers of specialty trade contractors.",
+            "D) All of the above."
+        ],
+        "answer": "D) All of the above."
+    },
+    "3": {
+        "question": "The General Services Administration was the first federal agency to use construction management.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "4": {
+        "question": "The General Services Administration, the Department of Health, Education and Welfare (now HHS), and the Veterans Administration ran into similar difficulties in the use of construction management. Which of the following was/were common problems for all three agencies?",
+        "options": [
+            "A) Funding restrictions",
+            "B) Claims",
+            "C) Change conditions",
+            "D) All of the above"
+        ],
+        "answer": "D) All of the above"
+    },
+    "5": {
+        "question": "CMAA was formed and incorporated 1982 with its primary focus being the growth and development of the construction management profession.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "6": {
+        "question": "The CMAA Construction Management Standards of Practice is intended as a guide to the range of services that constitute professional construction management. They seek to meet the documented need for definitions of what construction management services are, without unduly structuring the methodologies by which those services are provided by the CM.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "7": {
+        "question": "The goals of the Construction Management Association of America (CMAA) include:",
+        "options": [
+            "A) Setting standards and developing contract documents for construction management practice.",
+            "B) Expanding the understanding of the construction management concept and its use in the marketplace.",
+            "C) Advocacy for construction management in the legislative, regulatory, and judicial arenas of federal, state, and local governments.",
+            "D) All of the above."
+        ],
+        "answer": "D) All of the above"
+    },
+    "8": {
+        "question": "The fact that an individual is certified or licensed in any other profession does not, per se, establish him/her as a qualified CM.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "9": {
+        "question": "Certification as a CM means the construction management practitioner has \"state of the art\" knowledge and capability to practice construction management.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "10": {
+        "question": "Recruiting and training are business matters and normally do not involve ethical concerns.",
+        "options": ["True", "False"],
+        "answer": "False"
+    },
+    "11": {
+        "question": "Construction management is a concept that is susceptible to overselling.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "12": {
+        "question": "Failure to provide quality services is a business and not an ethical question.",
+        "options": ["True", "False"],
+        "answer": "False"
+    },
+    "13": {
+        "question": "Contracting for adequate fees is both a business and an ethical issue.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "14": {
+        "question": "The ethics of the CM profession focus primarily on a CM's relationships in dealing with its clients.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "15": {
+        "question": "The possible approaches for delivering a project are virtually unlimited. A key reason for such variations is:",
+        "options": [
+            "A) The different roles that can be assumed by project participants.",
+            "B) Different forms of contracts and methods of compensation that can be used.",
+            "C) The different levels of care, responsibility, and risks assumed by the parties involved.",
+            "D) All of the above."
+        ],
+        "answer": "D) All of the above"
+    },
+    "16": {
+        "question": "The traditional delivery system is characterized by executing the major phases of a project in:",
+        "options": [
+            "A) An overlapping concept",
+            "B) A linear sequence",
+            "C) A fast track method",
+            "D) All of the above"
+        ],
+        "answer": "B) A linear sequence"
+    },
+    "17": {
+        "question": "A key advantage of the traditional delivery approach is:",
+        "options": [
+            "A) With the traditional delivery system, the cost of the construction phase is known before construction starts.",
+            "B) Facility features are fully determined & specified.",
+            "C) When the construction contract is signed, the major risk belongs to the contractor.",
+            "D) All of the above"
+        ],
+        "answer": "B) Facility features are fully determined & specified."
+    },
+    "18": {
+        "question": "Design-build and at-risk construction management delivery systems allow the option to fast-track or phase a project.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "19": {
+        "question": "Most definitions of construction management are similar. However, a contractual definition is not known until:",
+        "options": [
+            "A) The legal form of the CM contract is chosen.",
+            "B) The specific scope of services to be provided is identified.",
+            "C) The relationship of the CM to others and the risks and authority assumed by the parties are clearly defined.",
+            "D) All of the above"
+        ],
+        "answer": "D) All of the above"
+    },
+    "20": {
+        "question": "21.",
+        "options": [
+            "In a CM-at-Risk arrangement once construction begins and the CM converts from the professional advisory role of a CM to the contractual role of a general contractor, the CM has no implied duties of loyalty and care to the owner.",
+            "True False"
+        ],
+        "answer": "True"
+    },
+    "21": {
+        "question": "The agency CM does not perform design or actual construction work.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "22": {
+        "question": "Under the CM-at-Risk delivery method, the owner usually must deal with the hybrid of a construction manager and a general contractor.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "23": {
+        "question": "Under a CM-at-risk contract, which of the following statements are true?",
+        "options": [
+            "A) The CM, in most cases, holds the trade and/or specialty contracts.",
+            "B) The CM has the right to enforce the schedule, pay the trade or subcontractors, and terminate them if such action becomes necessary.",
+            "C) On some CM-at-Risk contracts, the CM has the option of performing portions of the work with its own resources (unless prohibited by law on certain public projects).",
+            "D) All of the above"
+        ],
+        "answer": "D) All of the above"
+    },
+    "24": {
+        "question": "In considering the differences between agency CM and CM-at-Risk, which one of the following statements is NOT true?",
+        "options": [
+            "A) With the CM-at-Risk, the CM is responsible for means, methods, and sequencing of work.",
+            "B) In an agency CM role, the CM does none of the physical work.",
+            "C) The CM, in most cases, is clearly responsible for schedule and coordination.",
+            "D) In an agency CM role, the CM directly subcontracts all trade contracts."
+        ],
+        "answer": "D) In an agency CM role, the CM directly subcontracts all trade contracts."
+    },
+    "25": {
+        "question": "The agency CM maintains a direct contractual relationship with the trade or prime contractors.",
+        "options": ["True", "False"],
+        "answer": "False"
+    },
+    "26": {
+        "question": "Placing the CM in an agency role always transfers the risk to the contractor.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "27": {
+        "question": "In an agency CM relationship, the CM has no vested financial interest in the project.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "28": {
+        "question": "Under agency CM, agency is a relationship between owner and CM as agent acting in the owner's interest.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "29": {
+        "question": "Actual usage of a particular contract form for the construction phase depends on:",
+        "options": [
+            "A) The particular delivery system being used.",
+            "B) The type of project being implemented and the completion status of the plans and specifications at the time of contracting.",
+            "C) The consideration of any performance requirements, the level of sophistication of the owner, and the role of the architect/engineers involved.",
+            "D) All of the above"
+        ],
+        "answer": "D) All of the above"
+    },
+    "30": {
+        "question": "There are two basic categories of construction phase contracts, cost reimbursement and fixed price.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "31": {
+        "question": "Under a fixed price or lump sum contract, the contractors can be asked to bid on work based on partially completed documents (scope bid), or a complete set of drawings and specifications.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "32": {
+        "question": "The primary advantage of the fixed price or lump sum contract is that bids should be taken on contract documents that are only 50% complete.",
+        "options": ["True", "False"],
+        "answer": "False"
+    },
+    "33": {
+        "question": "A general contractor working under a fixed price contract will always put its interests ahead of the owner.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "34": {
+        "question": "Under a cost plus fixed fee arrangement, fixed fee is usually established at the time of contract award; however, it may vary with the actual cost expended as the scope of work changes.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "35": {
+        "question": "Under a Guaranteed Maximum Price arrangement, the contractor is usually selected and a GMP is established with the understanding by the parties that the actual cost of the work could be greater than the GMP.",
+        "options": ["True", "False"],
+        "answer": "False"
+    },
+    "36": {
+        "question": "On some GMP projects, the owner may reserve the right to approve all trade and purchase contracts. Normally the owner pays the difference between the estimated trade contract costs and the trade contract award value when the award value approved by the owner is greater than the estimated bid element included in the contractor's GMP.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "37": {
+        "question": "Once a GMP for construction costs is established, the contractor takes on the risk of completing the project.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "38": {
+        "question": "A guaranteed maximum price can never change.",
+        "options": ["True", "False"],
+        "answer": "False"
+    },
+    "39": {
+        "question": "Under a GMP contract, the intent of an incentive clause is to challenge the contractor to construct the project for less than the established GMP.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "40": {
+        "question": "Under a unit price-type contract, the total cost to the owner will vary with the actual units put in place. In addition, the owner assumes the risk of cost and the amount of work required.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "41": {
+        "question": "In cases where standard construction contract forms are proposed to be used, it is imperative that legal counsel be utilized to review and assess the contract as to form, the scope of services to be provided, risks assumed by the parties, terms and conditions included, compliance with applicable laws, and the compatibility with other related contracts.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "42": {
+        "question": "Quality control begins",
+        "options": [
+            "A) At the start of construction",
+            "B) At the start of design",
+            "C) At the start of planning",
+            "D) At the start of the punchlist"
+        ],
+        "answer": "C) At the start of planning"
+    },
+    "43": {
+        "question": "The contractor is solely responsible for safety on the job site.",
+        "options": ["True", "False"],
+        "answer": "False"
+    },
+    "44": {
+        "question": "A key element leading to successful project management is decision making based on adequate information.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "45": {
+        "question": "Which statement most adequately describes the scheduling results desired on a project?",
+        "options": [
+            "A) A bar chart that shows the start of major tasks.",
+            "B) Mitigation of time and resource crises.",
+            "C) The date of the earliest possible project completion.",
+            "D) Specification of the CPM tools to be utilized."
+        ],
+        "answer": "D) Specification of the CPM tools to be utilized"
+    },
+    "46": {
+        "question": "A project schedule must always be in a CPM format.",
+        "options": ["True", "False"],
+        "answer": "False"
+    },
+    "47": {
+        "question": "The CM does not have the responsibility to generate and track the project budget.",
+        "options": ["True", "False"],
+        "answer": "False"
+    },
+    "48": {
+        "question": "The CM is responsible to ensure that the contracts used on the project are legally enforceable.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "49": {
+        "question": "The project record includes:",
+        "options": [
+            "A) Letters",
+            "B) Shop drawing submittals",
+            "C) CADD files",
+            "D) All of the above"
+        ],
+        "answer": "D) All of the above"
+    },
+    "50": {
+        "question": "The owner's selection of a project delivery system should be made before a decision by the owner to select a CM and designer.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "51": {
+        "question": "A/E services are required to be competitively bid under the \"Brooks Act.\"",
+        "options": ["True", "False"],
+        "answer": "False"
+    },
+    "52": {
+        "question": "CM services, like A/E services, can be accurately defined to provide a basis for a bid.",
+        "options": ["True", "False"],
+        "answer": "False"
+    },
+    "53": {
+        "question": "A CM response/proposal to an owner's request for proposal can be considered an offer to enter into a contract.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "54": {
+        "question": "CMAA defines construction management as a professional management practice applied to construction projects from project inception to completion for the purpose of controlling time, cost, scope, and quality.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "55": {
+        "question": "What regulations define and differentiate public and private sector contracting?",
+        "options": [
+            "A) OSHA",
+            "B) CMAA Standard Contract form A-1",
+            "C) FAR",
+            "D) ADR"
+        ],
+        "answer": "FAR"
+    },
+    "56": {
+        "question": "What is a principal differentiator between public and private sector contracting?",
+        "options": [
+            "A) Advantage in contract language",
+            "B) Innovative designs",
+            "C) Sustainability goals",
+            "D) All of the above"
+        ],
+        "answer": "A) Advantage in contract language"
+    },
+    "57": {
+        "question": "In the selection of a CM as an agent, the owner should include price as a primary consideration.",
+        "options": ["True", "False"],
+        "answer": "False"
+    },
+    "58": {
+        "question": "A CM, acting as an agent of the owner, will bond a multi-prime job.",
+        "options": ["True", "False"],
+        "answer": "False"
+    },
+    "59": {
+        "question": "There is more than one type of legal relationship that may exist between an owner and the CM.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "60": {
+        "question": "The standard of care to which a CM is likely to be held is:",
+        "options": [
+            "A) That of a licensed architect performing construction administration services",
+            "B) That of a licensed contractor managing sub-contractors on a similar project",
+            "C) That of how other professionals in the industry generally perform",
+            "D) That of a general contractor working on a similarly priced project"
+        ],
+        "answer": "C) That of how other professionals in the industry generally perform"
+    },
+    "61": {
+        "question": "The scope of the professional CM's basic and invariable role and responsibility is to serve the needs of the owner.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "62": {
+        "question": "During the CM selection process, which of the following statements is true?",
+        "options": [
+            "A) The parties should have a clear understanding of the scope of CM services required and what form of CM agreement is proposed for use during the engagement.",
+            "B) The owner should consider the cost of CM services only after the establishment of the technical requirements and after careful consideration of the CM's qualifications, related experience, and proposed staffing plan.",
+            "C) The proposed CM agreements should clearly define the risks and authority assumed by the CM, as distinguished from those retained by the owner.",
+            "D) All of the above"
+        ],
+        "answer": "D) All of the above"
+    },
+    "63": {
+        "question": "There are no accepted industry-wide standards or guidelines for determining what is considered to be reasonable and fair compensation for construction management services.",
+        "options": ["True", "False"],
+        "answer": "False"
+    },
+    "64": {
+        "question": "With regard to CM compensation and the actual cost of CM services for a specific project, which of the following factors among others, should be considered?",
+        "options": [
+            "A) The point in time when the CM is brought on board and the duration of the engagement.",
+            "B) The scope of services to be provided.",
+            "C) The relationship of the CM to others, and the risk and authority assumed by the CM.",
+            "D) All of the above"
+        ],
+        "answer": "D) All of the above"
+    },
+    "65": {
+        "question": "Under a fixed fee approach to agency CM compensation, which of the following statements is NOT true?",
+        "options": [
+            "A) The fixed fee approach can have an adverse effect on both the CM and the owner.",
+            "B) Unexpected problems could require a CM to expend more costs than budgeted for staff to perform tasks.",
+            "C) The CM is not expected to perform a greater level of effort than originally anticipated.",
+            "D) Some believe that a temptation always exists for the CM to put forth less effort than anticipated or actually required."
+        ],
+        "answer": "C) The CM is not expected to perform a greater level of effort than originally anticipated."
+    },
+    "66": {
+        "question": "The cost plus fixed fee method of CM compensation can be divided into two separate phases\u2014pre-construction and construction.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "67": {
+        "question": "Under a cost plus fixed fee arrangement for CM compensation, the reimbursable expenses usually include:",
+        "options": [
+            "A) The costs of all job-site personnel, staff relocation costs, travel and living expenses of jobsite staff.",
+            "B) The costs of all job-site material, equipment, communications, vehicles, fees paid, reproduction, postage, computer, and any other reasonable field office-related expenses.",
+            "C) The use of home office personnel who may be involved in purchasing, expediting, scheduling, estimating, or other direct project-related tasks.",
+            "D) All of the above"
+        ],
+        "answer": "D) All of the above"
+    },
+    "68": {
+        "question": "The fee as a percentage of construction cost method of compensating an agency CM has a tendency to discourage effective time and cost control and is in conflict with the objectives and benefits of an agency construction management.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "69": {
+        "question": "In cases where a project is extended in duration for reasons beyond the control of the CM, it is imperative that the CM agreement address:",
+        "options": [
+            "A) How changes in scope and additional services will be handled.",
+            "B) Extended CM services.",
+            "C) The cost of additional services.",
+            "D) All of the above"
+        ],
+        "answer": "D) All of the above"
+    },
+    "70": {
+        "question": "The cost reimbursement method of compensation is one of the most commonly used forms of CM compensation associated with agency CM.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "71": {
+        "question": "Under a GMP contract, with services provided by a CM-at-Risk, which of the following statements is NOT true?",
+        "options": [
+            "A) The GMP is usually established on less than 100% complete drawings and specifications.",
+            "B) It is important that the phrase Guaranteed Maximum Price be clearly defined in the contract regarding what it includes and excludes.",
+            "C) With a GMP type CM agreement, the CM is responsible for all costs associated with the project.",
+            "D) Once a GMP for construction costs is established, the CM takes on the risk for completing the project."
+        ],
+        "answer": "C) With a GMP type CM agreement, the CM is responsible for all costs associated with the project."
+    },
+    "72": {
+        "question": "Once the Guaranteed Maximum Price is established, the owner does not have to be concerned with managing costs or schedules.",
+        "options": ["True", "False"],
+        "answer": "False"
+    },
+    "73": {
+        "question": "Liquidated damages on a contract are included to compensate the owner for a delay in completing the work.",
+        "options": ["", "True False"],
+        "answer": "True"
+    },
+    "74": {
+        "question": "The owner can transfer risk to the CM and maintain a full agency relationship with the CM.",
+        "options": ["True", "False"],
+        "answer": "False"
+    },
+    "75": {
+        "question": "A CM under an agency relationship, with the owner managing multi-prime contractors, must consider its own risk first in managing those contractors.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "76": {
+        "question": "A method of compensation that creates a potential for conflict of interest between the owner's interests and the CM's interests is indicative of an agency CM relationship.",
+        "options": ["True", "False"],
+        "answer": "False"
+    },
+    "77": {
+        "question": "Which of the following methods of compensation for CM services is inconsistent with the CM's agency relationship to its owner?",
+        "options": [
+            "A) Fixed fee",
+            "B) Percentage of construction costs",
+            "C) Multiple of direct personnel expenses",
+            "D) Professional fee plus expenses"
+        ],
+        "answer": "C) Multiple of direct personnel expenses"
+    },
+    "78": {
+        "question": "An agency CM with a fixed fee compensation arrangement shares in the savings generated by a lower than planned construction cost of the project.",
+        "options": ["True", "False"],
+        "answer": "False"
+    },
+    "79": {
+        "question": "Requiring a Guaranteed Maximum Price for the ultimate cost of the project does not create any potential for conflict between the CM and the owner's interests during the \"front end,\" pre-construction phase services.",
+        "options": ["True", "False"],
+        "answer": "False"
+    },
+    "80": {
+        "question": "The method of compensation of the CM is one of the elements that defines the nature of the relationship between the owner and the CM.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "81": {
+        "question": "Deficient contract documents is a common cause of disputes.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "82": {
+        "question": "The contract documents for a project should be written primarily to protect the interest of the CM.",
+        "options": ["True", "False"],
+        "answer": "False"
+    },
+    "83": {
+        "question": "The owner, CM, and designer are less likely to be involved in disputes with the contractor if a contract is awarded to the lowest bidder.",
+        "options": ["True", "False"],
+        "answer": "False"
+    },
+    "84": {
+        "question": "Owners should always use standard forms of agreement without modification for each project.",
+        "options": ["True", "False"],
+        "answer": "False"
+    },
+    "85": {
+        "question": "As the numbers of prime contractors on a project increase, the need to carefully coordinate contract documents increases.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "86": {
+        "question": "The roles of the CM as specified by the AIA and CMAA standard forms of agreement are significantly different.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "87": {
+        "question": "In the CMAA CM-at-Risk series contract documents, the CM may perform part of the construction work if the CM so chooses.",
+        "options": ["True", "False"],
+        "answer": "False"
+    },
+    "88": {
+        "question": "Under the CMAA CM-at-Risk contract documents, the owner may, without penalty, direct the CM to provide services as an agent of the owner.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "89": {
+        "question": "After the owner accepts a CM's proposed GMP as contemplated by the CMAA CM-at-Risk Series documents, the responsibilities and duties of the CM are essentially the same as if the owner and CM were using the AIA GMP documents.",
+        "options": ["True", "False"],
+        "answer": "False"
+    },
+    "90": {
+        "question": "The CMAA standard forms of agreement (Agency or CM-at-Risk Series) are the best documents for an owner to use on all design and construction projects.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "91": {
+        "question": "A CM should seek the advice of legal counsel when preparing or modifying contracts.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "92": {
+        "question": "Standard form contracts (such as the CMAA and AIA documents) may be modified to address an owner's project-specific requirements.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "93": {
+        "question": "The CMAA contract documents were written primarily to protect the interests of the CM.",
+        "options": ["True", "False"],
+        "answer": "False"
+    },
+    "94": {
+        "question": "The basic contractual relationships between the CM and designer are essentially the same in the CMAA A-1 and AIA C132-2009 documents.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "95": {
+        "question": "In the CMAA Agency series, the designer is entitled to object to provisions of the Construction Management Plan as prepared by the CM.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "96": {
+        "question": "According to the CMAA agency series contract documents, the CM and designer are required to cooperate for the benefit of the owner.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "97": {
+        "question": "When providing services specified in CMAA document A-1, the CM may have a fiscal liability for negligent preparation of cost estimates.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "98": {
+        "question": "The designer, while working under CMAA document A-4, is entitled to rely upon the cost estimate data prepared by the CM.",
+        "options": ["True", "False"],
+        "answer": "True"
+    },
+    "99": {
+        "question": "In the CMAA CM-at-Risk series documents, the CM is the owner's principal agent until a GMP is accepted by the owner.",
+        "options": ["True", "False"],
+        "answer": "False"
+    }
+}

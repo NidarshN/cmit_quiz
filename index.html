@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
+            integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w=="
+            crossorigin="anonymous"
+            referrerpolicy="no-referrer"
+        />
+        <link rel="stylesheet" href="./css/style.css" />
+        <title>Quiz</title>
+    </head>
+    <body>
+        <div class="container">
+            <div class="welcome-card">
+                <h1 class="heading">Quiz App</h1>
+                <div class="settings">
+                    <label for="numQuestions">Number of Questions</label>
+                    <select name="" id="numQuestions">
+                        <option value="5" selected>5</option>
+                        <option value="10">10</option>
+                        <option value="20">20</option>
+                        <option value="50">50</option>
+                        <option value="100">100</option>
+                    </select>
+                    <label for="duration">Select time for each question</label>
+                    <select name="duration" id="duration">
+                        <option value="10" selected>10 seconds</option>
+                        <option value="15">15 seconds</option>
+                        <option value="20">20 seconds</option>
+                        <option value="30">30 seconds</option>
+                        <option value="60">1 minute</option>
+                    </select>
+                </div>
+                <button class="btn start">Start Quiz</button>
+            </div>
+            <div class="quiz hide">
+                <div class="timer">
+                    <div class="progress">
+                        <div class="progress-bar">
+                            <span class="progress-text">50</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="question-wrapper">
+                    <div class="number">
+                        Question <span class="current">1</span
+                        ><span class="total">/10</span>
+                    </div>
+                    <div class="question">This is a Question</div>
+                </div>
+                <div class="answer-wrapper">
+                    <div class="answer">
+                        <span class="text">answer</span>
+                        <span class="checkbox"> <i class="fas fa-check"></i></span>
+                    </div>
+                </div>
+                <button class="submit" disabled>Submit</button>
+                <button class="btn next">Next</button>
+            </div>
+            <div class="end-screen hide">
+                <h1 class="heading">Quiz App</h1>
+                <div class="score">
+                    <span class="score-text">Your score:</span>
+                    <div>
+                        <span class="final-score">0</span>
+                        <span class="total-score">/ 10</span>
+                    </div>
+                </div>
+                <button class="btn restart">Restart Quiz</button>
+            </div>
+        </div>
+        <script src="./js/script.js"></script>
+    </body>
+</html>
