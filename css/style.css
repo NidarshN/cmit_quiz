@@ -18,7 +18,7 @@ body {
 .container {
     position: relative;
     width: 100%;
-    max-width: 400px;
+    max-width: 50%;
     background-color: #1f2847;
     padding: 30px;
     overflow: hidden;
@@ -201,6 +201,10 @@ select {
     display: none;
 }
 
+.btn.submit{
+    background-color: #0d6e1a;
+}
+
 .end-screen .score {
     color: #fff;
     font-size: 25px;
@@ -222,3 +226,5 @@ select {
         border-radius: 0;
     }
 }
+
+

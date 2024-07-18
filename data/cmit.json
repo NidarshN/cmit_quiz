@@ -140,10 +140,9 @@
         "answer": "D) All of the above"
     },
     "20": {
-        "question": "21.",
+        "question": "In a CM-at-Risk arrangement once construction begins and the CM converts from the professional advisory role of a CM to the contractual role of a general contractor, the CM has no implied duties of loyalty and care to the owner.",
         "options": [
-            "In a CM-at-Risk arrangement once construction begins and the CM converts from the professional advisory role of a CM to the contractual role of a general contractor, the CM has no implied duties of loyalty and care to the owner.",
-            "True False"
+            "True", "False"
         ],
         "answer": "True"
     },
@@ -355,7 +354,7 @@
             "C) FAR",
             "D) ADR"
         ],
-        "answer": "FAR"
+        "answer": "C) FAR"
     },
     "56": {
         "question": "What is a principal differentiator between public and private sector contracting?",
@@ -484,7 +483,7 @@
     },
     "73": {
         "question": "Liquidated damages on a contract are included to compensate the owner for a delay in completing the work.",
-        "options": ["", "True False"],
+        "options": ["True ","False"],
         "answer": "True"
     },
     "74": {

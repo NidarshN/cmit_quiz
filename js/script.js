@@ -8,7 +8,7 @@ const progress = (value) => {
 };
 
 const startBtn = document.querySelector(".start"),
-    numQuestions = document.querySelector(".numQuestions"),
+    numQuestions = document.querySelector("#numQuestions"),
     timePerQuestion = document.querySelector("#duration"),
     quiz = document.querySelector(".quiz"),
     startScreen = document.querySelector(".welcome-card");
@@ -17,16 +17,38 @@ let questions = [],
     time = 30,
     score = 0,
     currentQuestion,
-    timer;
+    timer,
+    num;
+
+const shuffler = (array) => {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+    return array;
+};
+
+const shuffleData = (obj) => {
+    const shuffledData = {}
+    indices = Object.keys(obj)
+    shuffler(indices)
+    for(let i = 0; i < indices.length; i++){
+        shuffledData[indices[i]] = obj[i.toString()]
+    }
+    return shuffledData
+};
 
 const startQuiz = () => {
-    // const num = numQuestions.value;
-    // loadingAnimation();
-    const url = "../data/cmit.json";
+    num = numQuestions.value;
+
+    loadingAnimation();
+    const url =
+        "https://raw.githubusercontent.com/NidarshN/cmit_quiz/main/data/cmit.json";
     fetch(url)
-        // .then((res) => res.json())
+        .then((res) => res.json())
         .then((data) => {
-            questions = data.json();
+            questions = shuffleData(data);
+            console.log(questions);
             setTimeout(() => {
                 startScreen.classList.add("hide");
                 quiz.classList.remove("hide");
@@ -60,11 +82,11 @@ const showQuestion = (question) => {
 
     const answers = [...question["options"]];
 
-    answersWrapper.innerHTML = "";
+    answerWrapper.innerHTML = "";
     answers.forEach((answer) => {
         answerWrapper.innerHTML += `
-        <div class="answer>
-            <span className="text">$(answer)</span>
+        <div class="answer">
+            <span class="text">${answer}</span>
             <span class="checkbox">
                 <i class="fas fa-check"></i>
             </span>
@@ -72,11 +94,12 @@ const showQuestion = (question) => {
     });
 
     questionNumber.innerHTML = `
-    Question <span class="current">${questions.indexOf(question) + 1}</span>
-    <span class="total">/ ${questions.length}</span>
+    Question <span class="current">${currentQuestion}</span>
+    <span class="total">/ ${num}</span>
     `;
 
     const answersDiv = document.querySelectorAll(".answer");
+
     answersDiv.forEach((answer) => {
         answer.addEventListener("click", () => {
             if (!answer.classList.contains("checked")) {
@@ -88,7 +111,6 @@ const showQuestion = (question) => {
             }
         });
     });
-
     time = timePerQuestion.value;
     startTimer(time);
 };
@@ -96,7 +118,9 @@ const showQuestion = (question) => {
 const startTimer = (time) => {
     timer = setInterval(() => {
         if (time == 3) {
-            playAudio("../data/countdown.mp3");
+            playAudio(
+                "https://github.com/NidarshN/cmit_quiz/raw/main/data/countdown.mp3"
+            );
         }
         if (time >= 0) {
             progress(time);
@@ -122,8 +146,9 @@ const checkAnswer = () => {
     clearInterval(timer);
     const selectedAnswer = document.querySelector(".answer.selected");
     if (selectedAnswer) {
-        const answer = selectedAnswer.querySelectorAll(".text").innerHTML;
-        if (answer === questions[currentQuestion - 1]["answer"]) {
+        const answer = selectedAnswer.querySelector(".text").innerText;
+
+        if (answer == questions[currentQuestion - 1]["answer"]) {
             score++;
             selectedAnswer.classList.add("correct");
         } else {
@@ -132,7 +157,7 @@ const checkAnswer = () => {
                 .querySelectorAll(".answer")
                 .forEach((answer) => {
                     if (
-                        answer.querySelector(".text").innerHTML ===
+                        answer.querySelector(".text").innerText ==
                         questions[currentQuestion - 1]["answer"]
                     ) {
                         answer.classList.add("correct");
@@ -144,7 +169,7 @@ const checkAnswer = () => {
             .querySelectorAll(".answer")
             .forEach((answer) => {
                 if (
-                    answer.querySelector(".text").innerHTML ===
+                    answer.querySelector(".text").innerText ==
                     questions[currentQuestion - 1]["answer"]
                 ) {
                     answer.classList.add("correct");
@@ -161,7 +186,7 @@ const checkAnswer = () => {
 };
 
 const nextQuestion = () => {
-    if (currentQuestion < questions.length) {
+    if (currentQuestion < num) {
         currentQuestion++;
         showQuestion(questions[currentQuestion - 1]);
     } else {
@@ -177,7 +202,7 @@ const showScore = () => {
     endScreen.classList.remove("hide");
     quiz.classList.add("hide");
     finalScore.innerHTML = score;
-    totalScore.innerHTML = `/ ${questions.length}`;
+    totalScore.innerHTML = `/ ${num}`;
 };
 
 const restartBtn = document.querySelector(".restart");
