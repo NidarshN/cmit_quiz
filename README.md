@@ -7,6 +7,7 @@ This is a simple quiz application built using HTML, CSS, and JavaScript. The pro
 
 - Multiple-choice questions
 - True/False questions
+- Shuffled Questions
 - Score calculation
 - Timer for each question
 - Interactive and responsive design
