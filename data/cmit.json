@@ -620,5 +620,994 @@
         "question": "In the CMAA CM-at-Risk series documents, the CM is the owner's principal agent until a GMP is accepted by the owner.",
         "options": ["True", "False"],
         "answer": "False"
+    },
+    "100": {
+        "question": "What is the primary role of a Construction Manager (CM)?",
+        "answer": "B) Managing the construction project",
+        "options": [
+            "A) Designing the structure",
+            "B) Managing the construction project",
+            "C) Financing the project",
+            "D) Inspecting the final build"
+        ]
+    },
+    "101": {
+        "question": "Which of the following is NOT a phase in the construction project lifecycle?",
+        "answer": "D) Marketing",
+        "options": [
+            "A) Pre-design",
+            "B) Design",
+            "C) Post-construction",
+            "D) Marketing"
+        ]
+    },
+    "102": {
+        "question": "What does the acronym CMIT stand for?",
+        "answer": "A) Construction Manager In Training",
+        "options": [
+            "A) Construction Manager In Training",
+            "B) Certified Manager In Training",
+            "C) Construction Management Initial Training",
+            "D) Construction Methodologies and Implementation Training"
+        ]
+    },
+    "103": {
+        "question": "Which document typically outlines the scope of work, schedule, and budget?",
+        "answer": "B) Project Charter",
+        "options": [
+            "A) Construction Plan",
+            "B) Project Charter",
+            "C) Contract Documents",
+            "D) Feasibility Study"
+        ]
+    },
+    "104": {
+        "question": "What is a critical path in project management?",
+        "answer": "B) The longest sequence of tasks that must be completed on time for the project to be finished on schedule",
+        "options": [
+            "A) The shortest path to project completion",
+            "B) The longest sequence of tasks that must be completed on time for the project to be finished on schedule",
+            "C) A path that includes only critical tasks",
+            "D) The path with the most float time"
+        ]
+    },
+    "105": {
+        "question": "Which tool is commonly used for project scheduling?",
+        "answer": "D) All of the above",
+        "options": [
+            "A) Gantt Chart",
+            "B) PERT Chart",
+            "C) Critical Path Method",
+            "D) All of the above"
+        ]
+    },
+    "106": {
+        "question": "What is the main purpose of a feasibility study?",
+        "answer": "B) To evaluate the financial viability of a project",
+        "options": [
+            "A) To assess the project's timeline",
+            "B) To evaluate the financial viability of a project",
+            "C) To design the project architecture",
+            "D) To hire contractors"
+        ]
+    },
+    "107": {
+        "question": "What does the term 'float' refer to in project management?",
+        "answer": "B) The amount of time a task can be delayed without delaying the project",
+        "options": [
+            "A) The time taken for a task to float to completion",
+            "B) The amount of time a task can be delayed without delaying the project",
+            "C) A technique for managing resources",
+            "D) A budget surplus"
+        ]
+    },
+    "108": {
+        "question": "Which of the following is a key component of a project plan?",
+        "answer": "B) Risk management plan",
+        "options": [
+            "A) Financial statements",
+            "B) Risk management plan",
+            "C) Marketing strategy",
+            "D) Recruitment plan"
+        ]
+    },
+    "109": {
+        "question": "What is the primary purpose of a work breakdown structure (WBS)?",
+        "answer": "C) To break down the project into manageable sections",
+        "options": [
+            "A) To define the project scope",
+            "B) To allocate project resources",
+            "C) To break down the project into manageable sections",
+            "D) To schedule project tasks"
+        ]
+    },
+    "110": {
+        "question": "What is the main focus during the project execution phase?",
+        "answer": "C) Completing project deliverables",
+        "options": [
+            "A) Planning",
+            "B) Monitoring",
+            "C) Completing project deliverables",
+            "D) Closing the project"
+        ]
+    },
+    "111": {
+        "question": "Which of the following is essential for effective project execution?",
+        "answer": "D) All of the above",
+        "options": [
+            "A) Detailed project plan",
+            "B) Regular progress meetings",
+            "C) Skilled team members",
+            "D) All of the above"
+        ]
+    },
+    "112": {
+        "question": "What is a change order?",
+        "answer": "A) A document that authorizes a change in the project scope",
+        "options": [
+            "A) A document that authorizes a change in the project scope",
+            "B) A new schedule for project completion",
+            "C) A change in the project team",
+            "D) A revised budget plan"
+        ]
+    },
+    "113": {
+        "question": "Which type of project management software helps in tracking project progress?",
+        "answer": "D) All of the above",
+        "options": [
+            "A) Accounting software",
+            "B) Scheduling software",
+            "C) Resource management software",
+            "D) All of the above"
+        ]
+    },
+    "114": {
+        "question": "What is a key factor in managing project quality?",
+        "answer": "C) Quality control",
+        "options": [
+            "A) Cost management",
+            "B) Time management",
+            "C) Quality control",
+            "D) Risk management"
+        ]
+    },
+    "115": {
+        "question": "What is the purpose of project monitoring and control?",
+        "answer": "B) To track and manage project performance",
+        "options": [
+            "A) To initiate the project",
+            "B) To track and manage project performance",
+            "C) To close the project",
+            "D) To design the project"
+        ]
+    },
+    "116": {
+        "question": "Which of the following is a common tool used in project monitoring?",
+        "answer": "B) Gantt charts",
+        "options": [
+            "A) SWOT analysis",
+            "B) Gantt charts",
+            "C) Feasibility study",
+            "D) Brainstorming sessions"
+        ]
+    },
+    "117": {
+        "question": "What does the acronym KPI stand for in project management?",
+        "answer": "B) Key Performance Indicators",
+        "options": [
+            "A) Key Project Indicators",
+            "B) Key Performance Indicators",
+            "C) Key Process Indicators",
+            "D) Key Plan Indicators"
+        ]
+    },
+    "118": {
+        "question": "What is Earned Value Management (EVM)?",
+        "answer": "B) A technique to measure project performance",
+        "options": [
+            "A) A method to assess project quality",
+            "B) A technique to measure project performance",
+            "C) A cost estimation technique",
+            "D) A scheduling tool"
+        ]
+    },
+    "119": {
+        "question": "What does the term 'variance' refer to in project monitoring?",
+        "answer": "A) The difference between planned and actual performance",
+        "options": [
+            "A) The difference between planned and actual performance",
+            "B) The total project cost",
+            "C) The project timeline",
+            "D) The project's risk level"
+        ]
+    },
+    "120": {
+        "question": "What is the primary purpose of the project closeout phase?",
+        "answer": "A) To finalize and deliver the project",
+        "options": [
+            "A) To finalize and deliver the project",
+            "B) To initiate the project",
+            "C) To plan the project",
+            "D) To monitor the project"
+        ]
+    },
+    "121": {
+        "question": "Which document is typically created during project closeout?",
+        "answer": "C) Project completion report",
+        "options": [
+            "A) Project charter",
+            "B) Project plan",
+            "C) Project completion report",
+            "D) Feasibility study"
+        ]
+    },
+    "122": {
+        "question": "What is a punch list in construction management?",
+        "answer": "A) A list of final tasks to be completed",
+        "options": [
+            "A) A list of final tasks to be completed",
+            "B) A list of project risks",
+            "C) A financial report",
+            "D) A project timeline"
+        ]
+    },
+    "123": {
+        "question": "Which activity is essential during project closeout?",
+        "answer": "D) All of the above",
+        "options": [
+            "A) Quality control",
+            "B) Risk assessment",
+            "C) Team evaluation",
+            "D) All of the above"
+        ]
+    },
+    "124": {
+        "question": "What does the term 'lessons learned' refer to in project management?",
+        "answer": "A) Successful strategies and mistakes documented for future reference",
+        "options": [
+            "A) Successful strategies and mistakes documented for future reference",
+            "B) The final project deliverables",
+            "C) The project budget",
+            "D) The project's initial plan"
+        ]
+    },
+    "125": {
+        "question": "Which of the following is a core function of management?",
+        "answer": "D) All of the above",
+        "options": [
+            "A) Planning",
+            "B) Organizing",
+            "C) Leading",
+            "D) All of the above"
+        ]
+    },
+    "126": {
+        "question": "What is the primary goal of strategic management?",
+        "answer": "B) To define and achieve long-term objectives",
+        "options": [
+            "A) To improve operational efficiency",
+            "B) To define and achieve long-term objectives",
+            "C) To manage project risks",
+            "D) To control project costs"
+        ]
+    },
+    "127": {
+        "question": "Which management theory focuses on the human aspects of workers?",
+        "answer": "B) Human relations theory",
+        "options": [
+            "A) Scientific management",
+            "B) Human relations theory",
+            "C) Bureaucratic management",
+            "D) Systems theory"
+        ]
+    },
+    "128": {
+        "question": "What is the role of a project manager?",
+        "answer": "B) To oversee the project's execution",
+        "options": [
+            "A) To design the project",
+            "B) To oversee the project's execution",
+            "C) To finance the project",
+            "D) To market the project"
+        ]
+    },
+    "129": {
+        "question": "Which of the following is NOT a leadership style?",
+        "answer": "D) Anarchic",
+        "options": [
+            "A) Autocratic",
+            "B) Democratic",
+            "C) Laissez-faire",
+            "D) Anarchic"
+        ]
+    },
+    "130": {
+        "question": "What is the primary goal of a safety management plan in construction?",
+        "answer": "C) To prevent accidents and injuries",
+        "options": [
+            "A) To reduce project costs",
+            "B) To enhance project quality",
+            "C) To prevent accidents and injuries",
+            "D) To improve communication"
+        ]
+    },
+    "131": {
+        "question": "Which of the following is a common cause of construction site accidents?",
+        "answer": "B) Inadequate safety training",
+        "options": [
+            "A) Poor weather conditions",
+            "B) Inadequate safety training",
+            "C) Delayed project schedule",
+            "D) Over-budget projects"
+        ]
+    },
+    "132": {
+        "question": "What is the purpose of a Job Safety Analysis (JSA)?",
+        "answer": "B) To identify and mitigate workplace hazards",
+        "options": [
+            "A) To schedule project tasks",
+            "B) To identify and mitigate workplace hazards",
+            "C) To allocate project resources",
+            "D) To assess project financial risks"
+        ]
+    },
+    "133": {
+        "question": "Which organization is responsible for enforcing safety regulations in construction in the United States?",
+        "answer": "A) OSHA (Occupational Safety and Health Administration)",
+        "options": [
+            "A) OSHA (Occupational Safety and Health Administration)",
+            "B) EPA (Environmental Protection Agency)",
+            "C) FDA (Food and Drug Administration)",
+            "D) NHTSA (National Highway Traffic Safety Administration)"
+        ]
+    },
+    "134": {
+        "question": "What does PPE stand for in construction safety?",
+        "answer": "A) Personal Protection Equipment",
+        "options": [
+            "A) Personal Protection Equipment",
+            "B) Professional Performance Evaluation",
+            "C) Project Planning and Execution",
+            "D) Personnel Performance Evaluation"
+        ]
+    },
+    "135": {
+        "question": "Which of the following is considered a liability risk in construction?",
+        "answer": "B) Worker injuries",
+        "options": [
+            "A) Financial overrun",
+            "B) Worker injuries",
+            "C) Delayed schedule",
+            "D) Inadequate project documentation"
+        ]
+    },
+    "136": {
+        "question": "What is the purpose of workers' compensation insurance?",
+        "answer": "B) To provide financial support to workers injured on the job",
+        "options": [
+            "A) To cover project delays",
+            "B) To provide financial support to workers injured on the job",
+            "C) To pay for project overruns",
+            "D) To enhance project quality"
+        ]
+    },
+    "137": {
+        "question": "Which of the following is NOT typically included in a safety training program?",
+        "answer": "C) Financial management",
+        "options": [
+            "A) Hazard communication",
+            "B) Emergency procedures",
+            "C) Financial management",
+            "D) Equipment operation"
+        ]
+    },
+    "138": {
+        "question": "What is the main benefit of conducting regular safety audits on a construction site?",
+        "answer": "B) Identifying and mitigating potential hazards",
+        "options": [
+            "A) Reducing project costs",
+            "B) Identifying and mitigating potential hazards",
+            "C) Improving project design",
+            "D) Enhancing team communication"
+        ]
+    },
+    "139": {
+        "question": "Which of the following is a common type of personal protective equipment (PPE)?",
+        "answer": "A) Safety glasses",
+        "options": [
+            "A) Safety glasses",
+            "B) Project plan",
+            "C) Construction schedule",
+            "D) Financial report"
+        ]
+    },
+    "140": {
+        "question": "What is a common pathway to becoming a certified construction manager?",
+        "answer": "D) All of the above",
+        "options": [
+            "A) Obtaining a degree in construction management",
+            "B) Gaining work experience in construction",
+            "C) Passing the CMAA certification exam",
+            "D) All of the above"
+        ]
+    },
+    "141": {
+        "question": "Which soft skill is essential for a construction manager?",
+        "answer": "A) Communication",
+        "options": [
+            "A) Communication",
+            "B) Electrical engineering",
+            "C) Carpentry",
+            "D) Welding"
+        ]
+    },
+    "142": {
+        "question": "What is the primary benefit of professional networking in the construction industry?",
+        "answer": "B) Enhancing job opportunities and career growth",
+        "options": [
+            "A) Increasing project budgets",
+            "B) Enhancing job opportunities and career growth",
+            "C) Reducing project timelines",
+            "D) Improving construction techniques"
+        ]
+    },
+    "143": {
+        "question": "Which of the following is a recognized professional organization for construction managers?",
+        "answer": "A) CMAA (Construction Management Association of America)",
+        "options": [
+            "A) CMAA (Construction Management Association of America)",
+            "B) AMA (American Management Association)",
+            "C) PMI (Project Management Institute)",
+            "D) IEEE (Institute of Electrical and Electronics Engineers)"
+        ]
+    },
+    "144": {
+        "question": "What does a construction manager typically need to maintain certification?",
+        "answer": "A) Continuing education and professional development",
+        "options": [
+            "A) Continuing education and professional development",
+            "B) Designing a new project every year",
+            "C) Writing research papers",
+            "D) Publishing articles"
+        ]
+    },
+    "145": {
+        "question": "Which of the following can help in career advancement for construction managers?",
+        "answer": "D) All of the above",
+        "options": [
+            "A) Gaining additional certifications",
+            "B) Attending industry conferences",
+            "C) Networking with industry professionals",
+            "D) All of the above"
+        ]
+    },
+    "146": {
+        "question": "What is the role of a mentor in career development?",
+        "answer": "A) Providing guidance and advice",
+        "options": [
+            "A) Providing guidance and advice",
+            "B) Assigning tasks",
+            "C) Evaluating performance",
+            "D) Hiring staff"
+        ]
+    },
+    "147": {
+        "question": "What is a key characteristic of an effective leader in construction management?",
+        "answer": "B) Ability to inspire and motivate the team",
+        "options": [
+            "A) Strong technical skills",
+            "B) Ability to inspire and motivate the team",
+            "C) Financial acumen",
+            "D) Design expertise"
+        ]
+    },
+    "148": {
+        "question": "Which of the following is a benefit of obtaining a CMAA certification?",
+        "answer": "D) All of the above",
+        "options": [
+            "A) Increased credibility in the industry",
+            "B) Higher earning potential",
+            "C) Enhanced job prospects",
+            "D) All of the above"
+        ]
+    },
+    "149": {
+        "question": "What is the importance of time management skills for a construction manager?",
+        "answer": "A) Ensuring project deadlines are met",
+        "options": [
+            "A) Ensuring project deadlines are met",
+            "B) Improving project quality",
+            "C) Reducing project costs",
+            "D) Enhancing team communication"
+        ]
+    },
+    "150": {
+        "question": "Which type of contract typically provides the least risk to the owner?",
+        "answer": "A) Lump-sum contract",
+        "options": [
+            "A) Lump-sum contract",
+            "B) Cost-plus contract",
+            "C) Time and materials contract",
+            "D) Unit price contract"
+        ]
+    },
+    "151": {
+        "question": "What is a risk management plan?",
+        "answer": "A) A document outlining potential project risks and mitigation strategies",
+        "options": [
+            "A) A document outlining potential project risks and mitigation strategies",
+            "B) A project schedule",
+            "C) A financial report",
+            "D) A quality control document"
+        ]
+    },
+    "152": {
+        "question": "Which of the following is NOT a common risk in construction projects?",
+        "answer": "D) Marketing issues",
+        "options": [
+            "A) Weather delays",
+            "B) Financial instability",
+            "C) Equipment failure",
+            "D) Marketing issues"
+        ]
+    },
+    "153": {
+        "question": "What is the purpose of a contingency plan in risk management?",
+        "answer": "B) To provide a backup plan in case of unforeseen events",
+        "options": [
+            "A) To outline project objectives",
+            "B) To provide a backup plan in case of unforeseen events",
+            "C) To allocate project resources",
+            "D) To design the project structure"
+        ]
+    },
+    "154": {
+        "question": "Which risk management technique involves transferring risk to another party?",
+        "answer": "C) Risk transfer",
+        "options": [
+            "A) Risk avoidance",
+            "B) Risk mitigation",
+            "C) Risk transfer",
+            "D) Risk acceptance"
+        ]
+    },
+    "155": {
+        "question": "What is the main benefit of using a lump-sum contract?",
+        "answer": "A) Fixed price for the owner",
+        "options": [
+            "A) Fixed price for the owner",
+            "B) Flexibility in project scope",
+            "C) Increased profit for the contractor",
+            "D) Reduced project timeline"
+        ]
+    },
+    "156": {
+        "question": "Which of the following is a common clause in construction contracts?",
+        "answer": "D) All of the above",
+        "options": [
+            "A) Scope of work",
+            "B) Payment terms",
+            "C) Change orders",
+            "D) All of the above"
+        ]
+    },
+    "157": {
+        "question": "What is the primary purpose of a contract in construction management?",
+        "answer": "A) To outline the agreement between parties involved in the project",
+        "options": [
+            "A) To outline the agreement between parties involved in the project",
+            "B) To design the project structure",
+            "C) To allocate project resources",
+            "D) To schedule project tasks"
+        ]
+    },
+    "158": {
+        "question": "Which type of insurance is typically required for construction projects?",
+        "answer": "A) Liability insurance",
+        "options": [
+            "A) Liability insurance",
+            "B) Health insurance",
+            "C) Life insurance",
+            "D) Travel insurance"
+        ]
+    },
+    "159": {
+        "question": "What is the purpose of a project charter?",
+        "answer": "A) To formally authorize the project",
+        "options": [
+            "A) To formally authorize the project",
+            "B) To design the project structure",
+            "C) To allocate project resources",
+            "D) To schedule project tasks"
+        ]
+    },
+    "160": {
+        "question": "Which project phase involves the actual building of the construction project?",
+        "answer": "C) Construction phase",
+        "options": [
+            "A) Design phase",
+            "B) Pre-construction phase",
+            "C) Construction phase",
+            "D) Post-construction phase"
+        ]
+    },
+    "161": {
+        "question": "Which of the following is NOT a responsibility of a construction manager?",
+        "answer": "B) Designing the architectural layout",
+        "options": [
+            "A) Coordinating and overseeing construction activities",
+            "B) Designing the architectural layout",
+            "C) Ensuring compliance with safety regulations",
+            "D) Managing project budgets and timelines"
+        ]
+    },
+    "162": {
+        "question": "What does the term 'project scope' refer to in construction management?",
+        "answer": "C) The detailed description of the work required for the project",
+        "options": [
+            "A) The timeline of the project",
+            "B) The total cost of the project",
+            "C) The detailed description of the work required for the project",
+            "D) The list of project stakeholders"
+        ]
+    },
+    "163": {
+        "question": "What is the primary goal of construction management?",
+        "answer": "B) Ensuring the project is completed on time, within budget, and to the required quality standards",
+        "options": [
+            "A) Maximizing project profitability",
+            "B) Ensuring the project is completed on time, within budget, and to the required quality standards",
+            "C) Minimizing the use of resources",
+            "D) Increasing the size of the project team"
+        ]
+    },
+    "164": {
+        "question": "What is the critical path method (CPM) used for in project management?",
+        "answer": "C) Scheduling project activities",
+        "options": [
+            "A) Budget estimation",
+            "B) Resource allocation",
+            "C) Scheduling project activities",
+            "D) Risk assessment"
+        ]
+    },
+    "165": {
+        "question": "Which document outlines the project's objectives, scope, and deliverables?",
+        "answer": "A) Project charter",
+        "options": [
+            "A) Project charter",
+            "B) Risk management plan",
+            "C) Quality control plan",
+            "D) Communication plan"
+        ]
+    },
+    "166": {
+        "question": "What is a milestone in project management?",
+        "answer": "A) A significant point or event in the project timeline",
+        "options": [
+            "A) A significant point or event in the project timeline",
+            "B) A detailed project task",
+            "C) A risk assessment tool",
+            "D) A project cost estimate"
+        ]
+    },
+    "167": {
+        "question": "Which of the following is a benefit of using project management software?",
+        "answer": "D) All of the above",
+        "options": [
+            "A) Improved communication",
+            "B) Better resource allocation",
+            "C) Enhanced project tracking",
+            "D) All of the above"
+        ]
+    },
+    "168": {
+        "question": "What is the primary purpose of resource leveling in project management?",
+        "answer": "B) To balance the demand for resources with the available supply",
+        "options": [
+            "A) To minimize project costs",
+            "B) To balance the demand for resources with the available supply",
+            "C) To reduce project timelines",
+            "D) To improve project quality"
+        ]
+    },
+    "169": {
+        "question": "Which project planning tool is used to visually represent the sequence of tasks and their dependencies?",
+        "answer": "A) Gantt chart",
+        "options": [
+            "A) Gantt chart",
+            "B) Work breakdown structure",
+            "C) Project charter",
+            "D) Fishbone diagram"
+        ]
+    },
+    "170": {
+        "question": "What is the primary focus during the project execution phase?",
+        "answer": "C) Completing the project deliverables",
+        "options": [
+            "A) Initiating the project",
+            "B) Planning the project",
+            "C) Completing the project deliverables",
+            "D) Closing the project"
+        ]
+    },
+    "171": {
+        "question": "Which document is used to formally authorize a change in the project scope?",
+        "answer": "B) Change order",
+        "options": [
+            "A) Project charter",
+            "B) Change order",
+            "C) Risk management plan",
+            "D) Quality control plan"
+        ]
+    },
+    "172": {
+        "question": "What is the main benefit of conducting regular team meetings during project execution?",
+        "answer": "B) Enhancing team communication and collaboration",
+        "options": [
+            "A) Reducing project costs",
+            "B) Enhancing team communication and collaboration",
+            "C) Improving project design",
+            "D) Shortening the project timeline"
+        ]
+    },
+    "173": {
+        "question": "Which of the following is a key factor in managing project quality during execution?",
+        "answer": "A) Regular inspections and audits",
+        "options": [
+            "A) Regular inspections and audits",
+            "B) Increased project funding",
+            "C) Hiring more team members",
+            "D) Reducing project scope"
+        ]
+    },
+    "174": {
+        "question": "What does the term 'resource allocation' refer to in project management?",
+        "answer": "A) Assigning available resources to various project tasks",
+        "options": [
+            "A) Assigning available resources to various project tasks",
+            "B) Estimating the project budget",
+            "C) Scheduling project tasks",
+            "D) Designing the project structure"
+        ]
+    },
+    "175": {
+        "question": "What is the purpose of Earned Value Management (EVM)?",
+        "answer": "A) To evaluate project performance and progress",
+        "options": [
+            "A) To evaluate project performance and progress",
+            "B) To allocate project resources",
+            "C) To design the project structure",
+            "D) To schedule project tasks"
+        ]
+    },
+    "176": {
+        "question": "Which of the following is a key performance indicator (KPI) in project management?",
+        "answer": "D) All of the above",
+        "options": [
+            "A) Project cost variance",
+            "B) Project schedule variance",
+            "C) Project quality metrics",
+            "D) All of the above"
+        ]
+    },
+    "177": {
+        "question": "What is the term used to describe the difference between planned and actual project performance?",
+        "answer": "B) Variance",
+        "options": ["A) Deviation", "B) Variance", "C) Discrepancy", "D) Gap"]
+    },
+    "178": {
+        "question": "Which tool is commonly used to monitor project progress and performance?",
+        "answer": "A) Gantt chart",
+        "options": [
+            "A) Gantt chart",
+            "B) Fishbone diagram",
+            "C) SWOT analysis",
+            "D) PERT chart"
+        ]
+    },
+    "179": {
+        "question": "What does a risk management plan typically include?",
+        "answer": "D) All of the above",
+        "options": [
+            "A) Identification of potential risks",
+            "B) Assessment of risk impact and likelihood",
+            "C) Strategies for mitigating risks",
+            "D) All of the above"
+        ]
+    },
+    "180": {
+        "question": "What is the main purpose of a punch list in construction?",
+        "answer": "A) To identify and document any remaining work or defects to be corrected before project completion",
+        "options": [
+            "A) To identify and document any remaining work or defects to be corrected before project completion",
+            "B) To schedule project tasks",
+            "C) To allocate project resources",
+            "D) To design the project structure"
+        ]
+    },
+    "181": {
+        "question": "Which document is typically created during the project closeout phase to summarize project performance?",
+        "answer": "B) Project completion report",
+        "options": [
+            "A) Project charter",
+            "B) Project completion report",
+            "C) Risk management plan",
+            "D) Quality control plan"
+        ]
+    },
+    "182": {
+        "question": "What is the purpose of conducting a project closeout meeting?",
+        "answer": "B) To review project performance and lessons learned",
+        "options": [
+            "A) To finalize and deliver the project",
+            "B) To review project performance and lessons learned",
+            "C) To initiate the project",
+            "D) To plan the project"
+        ]
+    },
+    "183": {
+        "question": "What is a 'lessons learned' report?",
+        "answer": "A) A document that outlines successful strategies and mistakes made during the project for future reference",
+        "options": [
+            "A) A document that outlines successful strategies and mistakes made during the project for future reference",
+            "B) A financial report",
+            "C) A project schedule",
+            "D) A project charter"
+        ]
+    },
+    "184": {
+        "question": "What is the primary goal of organizational management?",
+        "answer": "A) To achieve the organization's objectives efficiently and effectively",
+        "options": [
+            "A) To achieve the organization's objectives efficiently and effectively",
+            "B) To design the organization's structure",
+            "C) To increase the organization's workforce",
+            "D) To reduce the organization's budget"
+        ]
+    },
+    "185": {
+        "question": "Which management function involves setting goals and determining how to achieve them?",
+        "answer": "A) Planning",
+        "options": [
+            "A) Planning",
+            "B) Organizing",
+            "C) Leading",
+            "D) Controlling"
+        ]
+    },
+    "186": {
+        "question": "What is the focus of human relations theory in management?",
+        "answer": "C) Human aspects and employee well-being",
+        "options": [
+            "A) Technical skills of workers",
+            "B) Financial management",
+            "C) Human aspects and employee well-being",
+            "D) Project scheduling"
+        ]
+    },
+    "187": {
+        "question": "Which leadership style involves making decisions without consulting others?",
+        "answer": "A) Autocratic",
+        "options": [
+            "A) Autocratic",
+            "B) Democratic",
+            "C) Laissez-faire",
+            "D) Transformational"
+        ]
+    },
+    "188": {
+        "question": "What is the primary responsibility of a project manager?",
+        "answer": "A) Overseeing the execution and completion of the project",
+        "options": [
+            "A) Overseeing the execution and completion of the project",
+            "B) Financing the project",
+            "C) Marketing the project",
+            "D) Designing the project"
+        ]
+    },
+    "189": {
+        "question": "What is the primary goal of safety regulations in construction?",
+        "answer": "B) To prevent accidents and injuries",
+        "options": [
+            "A) To reduce project costs",
+            "B) To prevent accidents and injuries",
+            "C) To improve project design",
+            "D) To enhance team communication"
+        ]
+    },
+    "190": {
+        "question": "Which organization provides guidelines and standards for workplace safety in the United States?",
+        "answer": "A) OSHA (Occupational Safety and Health Administration)",
+        "options": [
+            "A) OSHA (Occupational Safety and Health Administration)",
+            "B) FDA (Food and Drug Administration)",
+            "C) EPA (Environmental Protection Agency)",
+            "D) NHTSA (National Highway Traffic Safety Administration)"
+        ]
+    },
+    "191": {
+        "question": "What is the purpose of conducting safety inspections on a construction site?",
+        "answer": "A) To identify and mitigate potential hazards",
+        "options": [
+            "A) To identify and mitigate potential hazards",
+            "B) To schedule project tasks",
+            "C) To allocate project resources",
+            "D) To improve project design"
+        ]
+    },
+    "192": {
+        "question": "Which type of insurance provides financial support to workers injured on the job?",
+        "answer": "A) Workers' compensation insurance",
+        "options": [
+            "A) Workers' compensation insurance",
+            "B) Liability insurance",
+            "C) Health insurance",
+            "D) Life insurance"
+        ]
+    },
+    "193": {
+        "question": "What is the main benefit of using personal protective equipment (PPE)?",
+        "answer": "A) Reducing the risk of injury",
+        "options": [
+            "A) Reducing the risk of injury",
+            "B) Increasing project costs",
+            "C) Enhancing project quality",
+            "D) Improving team communication"
+        ]
+    },
+    "194": {
+        "question": "What is the primary purpose of professional development in construction management?",
+        "answer": "A) To enhance skills and knowledge for career advancement",
+        "options": [
+            "A) To enhance skills and knowledge for career advancement",
+            "B) To increase project costs",
+            "C) To reduce project timelines",
+            "D) To design project structures"
+        ]
+    },
+    "195": {
+        "question": "Which soft skill is crucial for effective communication in construction management?",
+        "answer": "A) Active listening",
+        "options": [
+            "A) Active listening",
+            "B) Carpentry",
+            "C) Welding",
+            "D) Electrical engineering"
+        ]
+    },
+    "196": {
+        "question": "Which organization offers certification for construction managers?",
+        "answer": "A) CMAA (Construction Management Association of America)",
+        "options": [
+            "A) CMAA (Construction Management Association of America)",
+            "B) PMI (Project Management Institute)",
+            "C) IEEE (Institute of Electrical and Electronics Engineers)",
+            "D) AMA (American Management Association)"
+        ]
+    },
+    "197": {
+        "question": "Which activity is essential during project closeout?",
+        "answer": "D) All of the above",
+        "options": ["A) Team evaluation",
+            "B) Risk assessment",
+            "C) Quality control",
+            "D) All of the above"]
+    },
+    "198": {
+        "question": "What is the role of a mentor in career development?",
+        "answer": "A) Providing guidance and advice",
+        "options": ["A) Providing guidance and advice",
+            "B) Assigning tasks",
+            "C) Evaluating performance",
+            "D) Hiring staff"]
+    },
+    "199": {
+        "question": "What is the primary benefit of obtaining additional certifications in construction management?",
+        "answer": "A) Enhanced job prospects and career growth",
+        "options": ["A) Enhanced job prospects and career growth",
+            "B) Increased project budgets",
+            "C) Reduced project timelines",
+            "D) Improved construction techniques"]
     }
 }
